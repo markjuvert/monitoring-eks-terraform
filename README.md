@@ -16,12 +16,10 @@ Container Insights also provides diagnostic information, such as container resta
 Metrics collected by Container Insights are charged as custom metrics.
 In Amazon EKS, Container Insights uses a containerized version of the CloudWatch agent to discover all the running containers in a cluster. It then collects performance data at every layer of the performance stack.
 
+For more details about the project, please checkout the project link below
+[Project Link](http://www.monitor-cwa-fb.cloud2day.link/)
 
-## Step-01: Introduction
-- EKS Monitoring and Logging 
-
-
-### Pre-requisites
+## Pre-requisites
 - EKS Cluster is created and ready for use
 ```t
 # Change Directory
